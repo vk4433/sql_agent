@@ -1,0 +1,10 @@
+langchain
+langgraph
+python-dotenv
+langchain-community
+google-generativeai
+pymysql
+ipykernel
+streamlit
+
+-e .
